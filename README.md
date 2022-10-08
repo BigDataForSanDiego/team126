@@ -1,6 +1,6 @@
 # Team 126: The Green Arrays
 
-##MedVerify
+## MedVerify
 
 - Get a vaccine / prescription
 - Put in info
