@@ -12,7 +12,7 @@
 - [X] Privacy and Security
 > Using blockchain, we will create an immutable record for the patient in order for a doctor/pharmacist/etc. to verify their medical record.
 
-#### Team Coordinator GitHub Username: <a href="https://github.com/ymorsi7">@ClarkThyLord</a>
+#### Team Coordinator GitHub Username: <a href="https://github.com/ymorsi7">@ymorsi7</a>
 
 #### Team Members: <a href="https://github.com/ymorsi7">@ymorsi7</a>, <a href="https://github.com/abdulsinjab">@abdulsinjab</a>, <a href="https://github.com/wajiabdullah">@wajiabdullah</a>, <a href="https://github.com/usmaneth">@usmaneth</a>,  <a href="https://github.com/a3alani">@a3alani</a>
 
