@@ -3,7 +3,7 @@
 
 > Website that allows medical verification through blockchain. Applications include vaccines and perscriptions.
 
-<img width="128px" src="./group.svg" alt="" />
+<img width="128px" src="./images/team.png" alt="" />
 
 
 #### Hackathon Theme(s)
