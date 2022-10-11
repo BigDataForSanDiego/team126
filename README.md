@@ -4,6 +4,7 @@
 > Website that allows medical verification through blockchain. Applications include vaccines and perscriptions.
 
 
+#### Team Picture
 <img width="400px" src="./images/team.png" alt="" />
 
 
